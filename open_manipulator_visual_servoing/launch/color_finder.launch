@@ -1,0 +1,3 @@
+<launch>
+   <node name="color_finder" pkg="open_manipulator_visual_servoing" type="color_finder" output="screen" />
+</launch>

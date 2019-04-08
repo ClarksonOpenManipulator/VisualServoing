@@ -1,0 +1,6 @@
+#Image coordinate
+int32 x
+int32 y
+---
+#Point in world for at requested image coordinate
+geometry_msgs/Point point

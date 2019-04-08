@@ -1,0 +1,6 @@
+#Color range in format [lowB, lowG, lowR, highB, highG, highR]
+int16[] colors
+---
+#Image coordinate of blob
+int32 x
+int32 y

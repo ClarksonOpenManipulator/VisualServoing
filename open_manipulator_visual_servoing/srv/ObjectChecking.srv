@@ -1,0 +1,5 @@
+#Color range in format [lowB, lowG, lowR, highB, highG, highR]
+int16[] colors
+---
+#Number of dots on dice
+int8 object_value
